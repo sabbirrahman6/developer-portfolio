@@ -28,7 +28,7 @@ h2 {
 }
 
 .half-width img {
-    width: 70%;
+    width: 80%;
 }
 
 .link-button {
@@ -55,6 +55,8 @@ h2 {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+
+
 }
 
 .experience-item {
